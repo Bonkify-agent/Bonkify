@@ -1,5 +1,5 @@
 # AI-Powered Twitter Bot: Bonkify Avatar
-
+https://pbs.twimg.com/profile_banners/1916783402004754432/1745838387/1500x500
 ## Overview
 This project is an AI-powered Twitter bot that transforms user avatars into "Bonkify" illustrations. It leverages multiple AI services including Vision AI, DALL-E, and GPT-4o.
 
