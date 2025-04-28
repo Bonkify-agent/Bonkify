@@ -36,4 +36,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## $Bonkify-TOKEN
-CA:
+CA:DY7Cxbs9HE9nYkuHfoJJ9SxPaANGCzp7LuxXLfm1bonk
