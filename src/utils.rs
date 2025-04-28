@@ -24,7 +24,7 @@ pub fn custom_image_path() -> PathBuf {
 // Generate image path in application data directory
 pub fn generate_image_path() -> PathBuf {
     // Get application-specific directory
-    let main_dirs = ProjectDirs::from("", "", "clara").unwrap();
+    let main_dirs = ProjectDirs::from("", "", "bonkify").unwrap();
     let image_dir = main_dirs.data_local_dir().join("images");
 
     // Create images directory if it doesn't exist
