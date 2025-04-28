@@ -1,8 +1,8 @@
 // Import Duration from the standard time module
 use std::time::Duration;
 
-// Import the Handler struct and Storage from clara module
-use clara::{handler::Handler, storage::Storage};
+// Import the Handler struct and Storage from bonkify module
+use bonkify::{handler::Handler, storage::Storage};
 // Import sleep function from tokio's time module
 use tokio::time::sleep;
 
