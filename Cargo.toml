@@ -1,11 +1,11 @@
 [package]
-name = "clara"
+name = "bonkify"
 version = "0.1.0"
 edition = "2021"
-description = "An AI-powered Twitter bot that transforms user avatars into cute cat illustrations with stories"
+description = "An AI-powered Twitter bot that transforms user avatars into Bonkify illustrations with stories"
 
 [lib]
-name = "clara"
+name = "Bonkify"
 path = "src/lib.rs"
 
 [dependencies]
